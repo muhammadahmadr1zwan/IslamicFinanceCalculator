@@ -21,3 +21,6 @@ This calculator serves both individual users and institutions seeking to manage 
 
 ## Usage
 The tool is user-friendly, allowing input values for each financial product, with clear instructions for each feature. The results are calculated in real-time and presented in a simple, understandable format to help users make informed decisions.
+
+## Contact Me
+Please contact me mrizwan@iu.edu for more information regarding this project!
